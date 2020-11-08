@@ -58,11 +58,7 @@ color:black;
     border-radius: 9px;
 }
 
-.background1{
-    background color:black;
-    background-size: cover;
-    background-blend-mode: darken;
-}
+
 .burger{
     display: none;
     position: absolute;
@@ -77,7 +73,11 @@ color:black;
         height: 4px;
         margin: 3px 3px;
     }
-    .background{
+    .background1{
     background: rgba(0, 0, 0, 0) url('../img1/building5.jpeg');
     background-size: cover;
     background-blend-mode: darken;
+}
+
+
+
